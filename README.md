@@ -4,7 +4,7 @@
 
 💼- Atualmente trabalho como Aprendiz na área da Produção. <br>
 📚- Cursando ADS! <br>
-👨‍💻- Iniciante na área da programação e em transição de carreira. <br>
+👨‍💻- Iniciante na área da programação e ansioso para ingressar no mercado. <br>
 
 ##
 
