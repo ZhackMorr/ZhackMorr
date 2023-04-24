@@ -2,9 +2,9 @@
 <p>Seja bem vindo!!</p>
 </div>
 
-💼- Atualmente trabalho como Aprendiz na área da Produção. <br>
+👨‍💻- Desenvolvedor Fron-End. <br>
 📚- Cursando ADS! <br>
-👨‍💻- Iniciante na área da programação e ansioso para ingressar no mercado. <br>
+💪- "Todo o esforço irá valer a pena". <br>
 
 ##
 
