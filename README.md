@@ -2,7 +2,7 @@
 <p>Seja bem vindo!!</p>
 </div>
 
-👨‍💻- Desenvolvedor Full Stack. <br>
+👨‍💻- Estagiário - Análise de Dados <br>
 📚- Cursando ADS! <br>
 💪- "Todo o esforço irá valer a pena". <br>
 
