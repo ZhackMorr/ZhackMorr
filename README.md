@@ -1,5 +1,5 @@
 <div><h1>Olá, eu sou Isaac Moraes🤗</h1>
-<p>Seja bem vindo!!</p>
+<p>Boas - Vindas!!</p>
 </div>
 
 👨‍💻- Estagiário - Análise de Dados <br>
@@ -16,7 +16,7 @@
   <img align="center" alt="Isaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
 
-<p>Aprendi a amar tecnologia e me encontrei no mundo da programação!</p>
+<p>Aprendi a amar tecnologia e me encontrei no mundo da programação e análise de dados!!</p>
   
   ##
   
