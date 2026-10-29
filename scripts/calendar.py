@@ -72,7 +72,7 @@ def render(calendar, user):
             date = dt.date.fromisoformat(d['date'])
             key = (date.year, date.month)
             if key not in seen:
-                if not seen or date.day <= 7:
+                if date.day <= 7:
                     # Skip a last partial month if it would overlap its neighbor.
                     if not seen or w < len(weeks)-2:
                         chunks.append(f'<text x="{58+w*15}" y="99" font-size="11" fill="#90a1bc">{MONTHS[date.month]}</text>')
