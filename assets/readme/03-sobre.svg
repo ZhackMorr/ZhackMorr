@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="397" viewBox="0 0 900 397" role="img" aria-labelledby="03-sobre-title"><title id="03-sobre-title">Isaac Matos: mais de 3 anos de experiência em People Analytics e BI. ADS concluído na UNINTER (2023–2025). Pós-graduação em Ciência de Dados e Big Data na PUC Minas (2026–2028, em andamento). Diadema, SP.</title><defs><radialGradient id="03-sobre-cyan"><stop stop-color="#0cc5b5" stop-opacity=".19"/><stop offset="1" stop-color="#0cc5b5" stop-opacity="0"/></radialGradient><radialGradient id="03-sobre-violet"><stop stop-color="#873eff" stop-opacity=".22"/><stop offset="1" stop-color="#873eff" stop-opacity="0"/></radialGradient><radialGradient id="03-sobre-blue"><stop stop-color="#3468ed" stop-opacity=".15"/><stop offset="1" stop-color="#3468ed" stop-opacity="0"/></radialGradient><linearGradient id="03-sobre-edge"><stop stop-color="#63e6d6" stop-opacity=".5"/><stop offset=".5" stop-color="#a38aff" stop-opacity=".2"/><stop offset="1" stop-color="#e39dcc" stop-opacity=".45"/></linearGradient></defs><g font-family="Segoe UI,Arial,sans-serif"><rect x=".5" y=".5" width="899" height="396" rx="20" fill="#090d16" stroke="#242838"/><defs><clipPath id="03-sobre-panel-clip"><rect width="900" height="397" rx="20"/></clipPath></defs><g clip-path="url(#03-sobre-panel-clip)">
+<ellipse cx="830" cy="160" rx="300" ry="190" fill="url(#03-sobre-cyan)"/>
+<text x="36" y="38" fill="#86a0bc" font-size="11" font-weight="600" letter-spacing="3">02 / SOBRE MIM</text>
+<text x="36" y="84" fill="#edf1fa" font-size="30" font-weight="600" >Entre pessoas, dados</text>
+<text x="36" y="121" fill="#edf1fa" font-size="30" font-weight="600" >e boas perguntas.</text>
+<text x="36" y="161" fill="#b7c3d8" font-size="17" font-weight="400" >Mais de 3 anos de experiência em People Analytics e BI.</text>
+<text x="36" y="189" fill="#b7c3d8" font-size="17" font-weight="400" >Transformo dados de RH e das unidades de negócio em indicadores,</text>
+<text x="36" y="217" fill="#b7c3d8" font-size="17" font-weight="400" >dashboards e análises para apoiar decisões com clareza e contexto.</text>
+<path d="M36 242H864" stroke="#ffffff" stroke-opacity=".07"/>
+<text x="36" y="272" fill="#63e6d6" font-size="11" font-weight="600" letter-spacing="3">FORMAÇÃO CONCLUÍDA</text><text x="36" y="301" fill="#d8e1f1" font-size="16" font-weight="400" >Análise e Desenvolvimento de Sistemas</text>
+<text x="36" y="327" fill="#90a1bc" font-size="13" font-weight="400" >UNINTER · 2023–2025</text>
+<text x="490" y="272" fill="#b49aff" font-size="11" font-weight="600" letter-spacing="3">PÓS-GRADUAÇÃO EM ANDAMENTO</text><text x="490" y="301" fill="#d8e1f1" font-size="16" font-weight="400" >Ciência de Dados e Big Data</text>
+<text x="490" y="327" fill="#90a1bc" font-size="13" font-weight="400" >PUC Minas · 2026–2028 (previsão)</text>
+<text x="36" y="369" fill="#90a1bc" font-size="13" font-weight="400" >Diadema, SP · Além dos dados: música, instrumentos e aprendizado em comunidade.</text>
+</g></g></svg>

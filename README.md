@@ -1,34 +1,25 @@
-<h1 align="center">Olá 👋, sou Isaac Moraes</h1>
-<h3 align="center">Estagiário em Análise de Dados</h3>
+<!-- Perfil de Isaac Matos. Elementos visuais locais em assets/readme/. -->
 
-- 🔭 Trabalho na [Gi Group Holding](https://www.gigroupholding.com/brasil/)
+<img src="./assets/readme/01-apresentacao.svg" width="100%" alt="Isaac Matos. Analista de Inteligência de Dados Jr na Gi Group Holding. Business Intelligence e People Analytics. Dados que revelam. Análises que orientam decisões." />
 
-- 👨‍💻 Estou cursando **Análise e Desenvolvimento de Sistemas.**
+<img src="./assets/readme/02-ferramentas.svg" width="100%" alt="Ferramentas: Power BI e Excel avançados, Power Query, DAX, modelagem e ETL. SQL e Python em desenvolvimento contínuo; Git nos projetos." />
 
-- 📄 Conheça um pouco das minhas experiências [LinkedIn Isaac Moraes](https://www.linkedin.com/in/isaac-moraes-38995a21b/)
+<img src="./assets/readme/03-sobre.svg" width="100%" alt="Isaac Matos: mais de 3 anos de experiência em People Analytics e BI. ADS concluído na UNINTER (2023–2025). Pós-graduação em Ciência de Dados e Big Data na PUC Minas (2026–2028, em andamento). Diadema, SP." />
 
-- 📫 Entrar em contato **isaacmatosdemoraes399@gmail.com**
+<img src="./assets/readme/03b-trajetoria.svg" width="100%" alt="Gi Group Holding: Analista de Inteligência de Dados Jr desde junho de 2025; anteriormente, estagiário em Análise de Dados entre junho de 2023 e junho de 2025. Dashboards, KPIs, People Analytics, Remuneração, DAX e ETL." />
 
-- ⚡ Curiosidade sobre mim, **gosto muito de tocar instrumenos.**
+<img src="./assets/readme/04-projetos-titulo.svg" width="100%" alt="Projetos selecionados. Análise com contexto. Código com propósito." />
 
-- 👯‍♀️ Procuro sempre contribuir e aprender junto a cominidade.
+<a href="https://github.com/ZhackMorr/portifolio-pessoal-isaacmoraes#01--dashboard-executivo-de-gente--gest%C3%A3o"><img src="./assets/readme/05-gente-gestao.svg" width="100%" alt="Gente e Gestão: dashboard executivo com indicadores de RH. Power BI, DAX e Power Query." /></a>
 
-##
+<a href="https://github.com/ZhackMorr/portifolio-pessoal-isaacmoraes#02--dossi%C3%AA-de-cultura--relat%C3%B3rio-de-turnover"><img src="./assets/readme/06-cultura-turnover.svg" width="100%" alt="Cultura e Turnover: análises de onboarding, diversidade e desligamentos." /></a>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" https='https://www.linkedin.com/in/isaac-moraes-38995a21b/'>
-<img align="center" alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" https='https://www.instagram.com/zac.moraess/'>
-</p>
+<a href="https://github.com/ZhackMorr/VidaPlus"><img src="./assets/readme/07-vidaplus.svg" width="100%" alt="VidaPlus: API acadêmica de gestão de saúde. Python, Flask e SQLAlchemy." /></a>
 
-##
+<sub>Os indicadores dos cases de People Analytics foram alterados e não representam dados reais de empresas.</sub>
 
-<h3 align="left">Ferramentas que já trabalho e que estou aprendendo:</h3>
+<img src="./assets/readme/08-processo.svg" width="100%" alt="Meu processo: entender o problema, preparar os dados, visualizar e apoiar a decisão." />
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img src="./assets/readme/09-contato.svg" width="100%" alt="Vamos conversar? Boas conexões também geram insights. Isaac Matos, ZhackMorr." />
 
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZhackMorr&theme=transparent&bg_color=FFF&border_color=9d1cd9&show_icons=true&icon_color=9d1cd9&title_color=E94D5F&text_color=000&hide_title=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZhackMorr&layout=compact&bg_color=FFF&border_color=9d1cd9&title_color=9d1cd9&text_color=000)
+<p align="center"><a href="https://www.linkedin.com/in/isaac-matos-38995a21b/">LinkedIn</a> &nbsp; · &nbsp; <a href="https://github.com/ZhackMorr/portifolio-pessoal-isaacmoraes">Portfólio</a> &nbsp; · &nbsp; <a href="mailto:isaacmatosdemoraes399@gmail.com">E-mail</a></p>
